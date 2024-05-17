@@ -12,9 +12,6 @@
 
 - 🌱 I’m currently learning **Rust**
 
-- 💬 Ask me about **Linux**
-
-
 
 <p align="left">
 </p>
