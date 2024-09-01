@@ -41,5 +41,4 @@
 
 
 
-<img align="center" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWxwdXNxdTJmYWFieTUwYmljNHhja2lobDBxbmFycnBlNHB3dzdkNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp"  />
-<img align="right" height="150" src="https://media0.giphy.com/media/l4JyNNqiVzBMbDOVO/200w.webp?cid=ecf05e47m1wf8xbg1z06xaj0t0e1d5n2qbrdog8coofdd2ik&ep=v1_gifs_related&rid=200w.webp&ct=g"  />
+<img align="center" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWxwdXNxdTJmYWFieTUwYmljNHhja2lobDBxbmFycnBlNHB3dzdkNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp"  /><img align="right" height="150" src="https://media0.giphy.com/media/l4JyNNqiVzBMbDOVO/200w.webp?cid=ecf05e47m1wf8xbg1z06xaj0t0e1d5n2qbrdog8coofdd2ik&ep=v1_gifs_related&rid=200w.webp&ct=g"  />
