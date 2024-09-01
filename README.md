@@ -41,4 +41,4 @@
 
 
 
-<img align="center" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWxwdXNxdTJmYWFieTUwYmljNHhja2lobDBxbmFycnBlNHB3dzdkNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp"  />
+<img align="center" height="200" src="[https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWxwdXNxdTJmYWFieTUwYmljNHhja2lobDBxbmFycnBlNHB3dzdkNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)"  />
