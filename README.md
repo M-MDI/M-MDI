@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mehdi</h1>
 <h3 align="center">Full Stack Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zangiefm&label=Profile%20views&color=0e75b6&style=flat" alt="zangiefm" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=M-MDI&label=Profile%20views&color=0e75b6&style=flat" alt="M-MDI" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zangiefm" alt="zangiefm" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=M-MDI" alt="M-MDI" /></a> </p>
 
 - 🔭 I’m currently working on **auto correction tool**
 - 🌱 I’m currently learning **Rust**
@@ -32,9 +32,9 @@
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zangiefm&show_icons=true&locale=en&layout=compact" alt="zangiefm" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=M-MDI&show_icons=true&locale=en&layout=compact" alt="M-MDI" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zangiefm&show_icons=true&locale=en" alt="zangiefm" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=M-MDI&show_icons=true&locale=en" alt="M-MDI" /></p>
 
 
 
