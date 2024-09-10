@@ -1,4 +1,5 @@
-
+<h1 align="center">Hi, I'm Mehdi</h1>
+<h3 align="center">Full Stack Developer</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=M-MDI" alt="M-MDI" /></a> </p>
 
 - 🔭 I’m currently working on **auto correction tool**
