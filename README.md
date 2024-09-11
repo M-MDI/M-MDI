@@ -33,7 +33,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=M-MDI&show_icons=true&locale=en" alt="M-MDI" /></p>
 
-
-
-
 <img align="center" height="200" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"  />
