@@ -1,8 +1,7 @@
-<h1 align="center">Hi, I'm Mehdi</h1>
+<img src="https://raw.githubusercontent.com/H1xxxx/H1xxxx/main/a.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=M-MDI" alt="M-MDI" /></a> </p>
 
 - 🔭 I’m currently working on **auto correction tool**
-- 🌱 I’m currently learning **Rust**
 - 💬 Ask me about **Golang**
 
 <h3 align="left">Connect with me:</h3>
@@ -31,3 +30,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=M-MDI&show_icons=true&locale=en&layout=compact" alt="M-MDI" /></p>
 
 <img align="center" height="200" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"  />
+<img src="https://raw.githubusercontent.com/H1xxxx/H1xxxx/main/a.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
