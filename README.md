@@ -1,9 +1,6 @@
 <img src="https://raw.githubusercontent.com/H1xxxx/H1xxxx/main/a.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=M-MDI" alt="M-MDI" /></a> </p>
 
-- 🔭 I’m currently working on **auto correction tool**
-- 💬 Ask me about **Golang**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.instagram.com/mehdim_dev" target="_blank" rel="noreferrer"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" /></a>
