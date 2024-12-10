@@ -1,5 +1,4 @@
 <img src="https://raw.githubusercontent.com/H1xxxx/H1xxxx/main/a.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
-<img src="https://i.pinimg.com/originals/c9/9e/35/c99e353f761d318322c853c03ebcf21b.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
 
 <h3 align="left">Connect with me:</h3>
@@ -27,5 +26,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=M-MDI&show_icons=true&locale=en&layout=compact" alt="M-MDI" /></p>
 
+<img src="https://i.pinimg.com/originals/c9/9e/35/c99e353f761d318322c853c03ebcf21b.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 <img align="center" height="200" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"  />
 <img src="https://raw.githubusercontent.com/H1xxxx/H1xxxx/main/a.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
