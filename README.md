@@ -1,21 +1,14 @@
+ 
+<div align="center">
 
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0B1020,45:302B63,100:00D9FF&text=MEHDI%20MOULABBI&fontSize=62&fontColor=FFFFFF&fontAlignY=34&desc=FULL-STACK%20ENGINEER%20%C2%B7%20AI%20SYSTEMS%20%C2%B7%20APPLICATION%20SECURITY&descSize=13&descAlignY=56&animation=fadeIn" width="100%" alt="Mehdi Moulabbi — Full-Stack Engineer, AI Systems, Application Security" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0B1020,45:302B63,100:00D9FF&text=MEHDI%20MOULABBI&fontSize=62&fontColor=FFFFFF&fontAlignY=34&desc=FULL-STACK%20ENGINEER%20%C2%B7%20AI%20SYSTEMS%20%C2%B7%20APPLICATION%20SECURITY&descSize=13&descAlignY=56&animation=fadeIn" width="100%" alt="Mehdi Moulabbi" />
 
 <br/>
 
-<a href="https://mehdimoulabbi.me">
-  <img src="https://img.shields.io/badge/PORTFOLIO-00D9FF?style=for-the-badge&logo=vercel&logoColor=0D1117" alt="Portfolio" />
-</a>
-<a href="https://www.linkedin.com/in/mmoulabbi/">
-  <img src="https://img.shields.io/badge/LINKEDIN-6366F1?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn" />
-</a>
-<a href="mailto:mehdimoulabbi1@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-00D9FF?style=for-the-badge&logo=gmail&logoColor=0D1117" alt="Email" />
-</a>
-<a href="https://github.com/M-MDI?tab=repositories">
-  <img src="https://img.shields.io/badge/REPOSITORIES-6366F1?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Repositories" />
-</a>
+<a href="https://mehdimoulabbi.me"><img src="https://img.shields.io/badge/PORTFOLIO-00D9FF?style=for-the-badge&logo=vercel&logoColor=0D1117" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/mmoulabbi/"><img src="https://img.shields.io/badge/LINKEDIN-6366F1?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn" /></a>
+<a href="mailto:mehdimoulabbi1@gmail.com"><img src="https://img.shields.io/badge/EMAIL-00D9FF?style=for-the-badge&logo=gmail&logoColor=0D1117" alt="Email" /></a>
+<a href="https://github.com/M-MDI?tab=repositories"><img src="https://img.shields.io/badge/REPOSITORIES-6366F1?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Repositories" /></a>
 
 <br/><br/>
 
@@ -51,11 +44,13 @@ availability: Open to relevant opportunities worldwide
 
 I'm a self-taught developer who learns by building, debugging, testing assumptions, and understanding how systems work beneath the surface.
 
-My work sits at the intersection of **software engineering, practical AI, and application security**. I enjoy taking an idea from architecture to implementation: shaping APIs, building full-stack applications, integrating AI pipelines, and making systems more reliable.
+My work sits at the intersection of **software engineering, practical AI, and application security**. I enjoy taking ideas from architecture to implementation: shaping APIs, building full-stack applications, integrating AI pipelines, and making systems more reliable.
 
 My training at Zone01 Oujda, part of the 42 network, helped sharpen my problem-solving, peer-learning, and learn-by-doing approach.
 
 > **Engineering principle:** Understand the system. Build the solution. Test the assumptions. Ship the result.
+
+---
 
 ## `02` / TECH MATRIX
 
@@ -79,7 +74,7 @@ My training at Zone01 Oujda, part of the 42 network, helped sharpen my problem-s
 
 ### Databases & Infrastructure
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite,docker,linux,nginx,githubactions,aws&theme=dark" alt="PostgreSQL, MySQL, MongoDB, Redis, SQLite, Docker, Linux, Nginx, GitHub Actions and AWS" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite,docker,linux,nginx,githubactions,aws&theme=dark" alt="Databases and infrastructure technologies" />
 
 `Data Modeling` · `Caching` · `Docker` · `Linux` · `CI/CD`
 
@@ -204,9 +199,7 @@ A full-stack project exploring social interactions, data modeling, and real-time
 
 <div align="center">
 
-<a href="https://github.com/M-MDI?tab=repositories">
-  <img src="https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES-00D9FF?style=for-the-badge&logo=github&logoColor=0D1117" alt="Explore all repositories" />
-</a>
+<a href="https://github.com/M-MDI?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES-00D9FF?style=for-the-badge&logo=github&logoColor=0D1117" alt="Explore repositories" /></a>
 
 </div>
 
@@ -247,6 +240,8 @@ A full-stack project exploring social interactions, data modeling, and real-time
 
 I don't believe every application needs microservices. A well-structured monolith is often the better starting point; distributed complexity should solve a real problem, not decorate an architecture diagram.
 
+---
+
 ## `05` / GITHUB SIGNAL
 
 <div align="center">
@@ -273,6 +268,8 @@ I don't believe every application needs microservices. A well-structured monolit
 - **Application security:** Investigated and documented a stored XSS vulnerability and its remediation.
 - **Local-first AI:** Exploring AI workflows that run on personal hardware and reduce cloud dependency.
 
+---
+
 ## `07` / CURRENT DIRECTION
 
 **Interested in:** Full-Stack Development · Backend Engineering (Go/Java) · AI Systems · Application Security · Software Testing
@@ -285,12 +282,8 @@ I don't believe every application needs microservices. A well-structured monolit
 
 Have a product idea, an interesting engineering problem, or an opportunity to collaborate?
 
-<a href="mailto:mehdimoulabbi1@gmail.com">
-  <img src="https://img.shields.io/badge/GET_IN_TOUCH-00D9FF?style=for-the-badge&logo=gmail&logoColor=0D1117" alt="Get in touch" />
-</a>
-<a href="https://www.linkedin.com/in/mmoulabbi/">
-  <img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-6366F1?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="Connect on LinkedIn" />
-</a>
+<a href="mailto:mehdimoulabbi1@gmail.com"><img src="https://img.shields.io/badge/GET_IN_TOUCH-00D9FF?style=for-the-badge&logo=gmail&logoColor=0D1117" alt="Get in touch" /></a>
+<a href="https://www.linkedin.com/in/mmoulabbi/"><img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-6366F1?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="Connect on LinkedIn" /></a>
 
 <br/><br/>
 
@@ -301,40 +294,3 @@ Have a product idea, an interesting engineering problem, or an opportunity to co
 <img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:00D9FF,50:302B63,100:0B1020" width="100%" alt="" />
 
 </div>
-'''
-
-workflow = r'''name: Generate Contribution Snake
-
-on:
-  schedule:
-    - cron: "17 0 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - main
-
-permissions:
-  contents: write
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    timeout-minutes: 10
-
-    steps:
-      - name: Generate contribution snake
-        uses: Platane/snk@v3
-        with:
-          github_user_name: M-MDI
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: Publish SVGs to output branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-'''
