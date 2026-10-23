@@ -1,60 +1,63 @@
- <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0B1020,45:302B63,100:00D9FF&text=MEHDI%20MOULABBI&fontSize=58&fontColor=FFFFFF&fontAlignY=36&desc=FULL-STACK%20ENGINEER%20%7C%20AI%20SYSTEMS%20%7C%20APPLICATION%20SECURITY&descSize=13&descAlignY=57&animation=fadeIn" width="100%" alt="Mehdi Moulabbi — Full-Stack Engineer, AI Systems, Application Security" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0B1020,45:302B63,100:00D9FF&text=MEHDI%20MOULABBI&fontSize=62&fontColor=FFFFFF&fontAlignY=34&desc=FULL-STACK%20ENGINEER%20%C2%B7%20AI%20SYSTEMS%20%C2%B7%20APPLICATION%20SECURITY&descSize=13&descAlignY=56&animation=fadeIn" width="100%" alt="Mehdi Moulabbi — Full-Stack Engineer, AI Systems, Application Security" />
 
 <br/>
 
 <a href="https://mehdimoulabbi.me">
-  <img src="https://img.shields.io/badge/PORTFOLIO-mehdimoulabbi.me-0D1117?style=for-the-badge&logo=vercel&logoColor=00D9FF" alt="Portfolio" />
+  <img src="https://img.shields.io/badge/PORTFOLIO-00D9FF?style=for-the-badge&logo=vercel&logoColor=0D1117" alt="Portfolio" />
 </a>
 <a href="https://www.linkedin.com/in/mmoulabbi/">
-  <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0D1117?style=for-the-badge&logo=linkedin&logoColor=00D9FF" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LINKEDIN-6366F1?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn" />
 </a>
 <a href="mailto:mehdimoulabbi1@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-LET'S_TALK-0D1117?style=for-the-badge&logo=gmail&logoColor=00D9FF" alt="Email" />
+  <img src="https://img.shields.io/badge/EMAIL-00D9FF?style=for-the-badge&logo=gmail&logoColor=0D1117" alt="Email" />
 </a>
-<a href="https://github.com/M-MDI">
-  <img src="https://img.shields.io/badge/GITHUB-EXPLORE_MY_CODE-0D1117?style=for-the-badge&logo=github&logoColor=00D9FF" alt="GitHub" />
+<a href="https://github.com/M-MDI?tab=repositories">
+  <img src="https://img.shields.io/badge/REPOSITORIES-6366F1?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Repositories" />
 </a>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=900&color=00D9FF&center=true&vCenter=true&width=750&lines=Building+software+that+ships.;Engineering+AI+systems+that+run+locally.;Designing+backends+for+real-world+workloads.;Finding+vulnerabilities.+Building+safer+systems.;From+low-level+logic+to+production+products." alt="Engineering focus" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=800&color=00D9FF&center=true&vCenter=true&width=800&lines=Building+software+that+ships.;Engineering+AI+systems+that+run+locally.;Designing+backends+for+real-world+workloads.;Finding+vulnerabilities.+Building+safer+systems.;Always+learning.+Always+shipping." alt="Animated engineering focus" />
 
-<br/>
+<br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=M-MDI&style=flat-square&color=00D9FF&label=PROFILE+VIEWS" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=M-MDI&style=for-the-badge&color=302B63&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>
 
 ---
 
-## `01` — About Me
+## `01` / SYSTEM PROFILE
 
 ```yaml
 name: Mehdi Moulabbi
-role: Full-Stack Developer & AI Systems Builder
+role:
+  - Full-Stack Developer
+  - AI Systems Builder
+  - Application Security Enthusiast
 location: Morocco
-education: Zone01 Oujda — 42 Network
+training: Zone01 Oujda — 42 Network
 experience: 3+ years of hands-on development
-interests:
-  - Backend engineering & distributed systems
-  - Local-first AI, RAG & intelligent automation
-  - Application security & secure software design
-  - Developer tooling & systems programming
-achievement: 1st Place — Afric'Artech Hackathon
+focus:
+  - Backend engineering and API design
+  - Local-first AI, RAG, and automation
+  - Application security and secure development
+  - Full-stack products and developer tooling
+highlight: 1st place — Afric'Artech Hackathon
 availability: Open to relevant opportunities worldwide
 ```
 
-I'm a self-taught developer who learns by building, debugging, breaking things in controlled environments, and understanding why they work.
+I'm a self-taught developer who learns by building, debugging, testing assumptions, and understanding how systems work beneath the surface.
 
-My focus is the intersection of **software engineering, practical AI, and security**. I enjoy taking an idea from architecture to implementation — designing APIs, building full-stack applications, integrating AI pipelines, and making systems more reliable.
+My work sits at the intersection of **software engineering, practical AI, and application security**. I enjoy taking an idea from architecture to implementation: shaping APIs, building full-stack applications, integrating AI pipelines, and making systems more reliable.
 
-My training at Zone01 Oujda, part of the 42 network, strengthened my approach to peer learning, problem-solving, and learning by doing.
+My training at Zone01 Oujda, part of the 42 network, helped sharpen my problem-solving, peer-learning, and learn-by-doing approach.
 
-**My philosophy:** Understand the system. Build the solution. Test the assumptions. Ship the result.
+> **Engineering principle:** Understand the system. Build the solution. Test the assumptions. Ship the result.
 
-## `02` — Engineering Stack
+## `02` / TECH MATRIX
 
 <div align="center">
 
@@ -66,9 +69,9 @@ My training at Zone01 Oujda, part of the 42 network, strengthened my approach to
 
 <img src="https://skillicons.dev/icons?i=spring,nodejs,express,graphql&theme=dark" alt="Spring, Node.js, Express and GraphQL" />
 
-`REST APIs` · `gRPC` · `Authentication` · `Concurrency` · `API Design`
+`REST` · `gRPC` · `API Design` · `Authentication` · `Concurrency`
 
-### Frontend & Mobile
+### Frontend
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,angular,tailwind&theme=dark" alt="React, Next.js, Angular and Tailwind CSS" />
 
@@ -76,13 +79,13 @@ My training at Zone01 Oujda, part of the 42 network, strengthened my approach to
 
 ### Databases & Infrastructure
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite,docker,linux,nginx,githubactions,aws&theme=dark" alt="Databases, Docker, Linux, Nginx, GitHub Actions and AWS" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite,docker,linux,nginx,githubactions,aws&theme=dark" alt="PostgreSQL, MySQL, MongoDB, Redis, SQLite, Docker, Linux, Nginx, GitHub Actions and AWS" />
 
-`Data Modeling` · `Caching` · `Docker` · `Linux Administration` · `CI/CD`
+`Data Modeling` · `Caching` · `Docker` · `Linux` · `CI/CD`
 
 ### AI & Automation
 
-`Ollama` · `RAG` · `Embeddings` · `ChromaDB` · `n8n` · `Whisper` · `Local LLMs` · `Multi-Model Orchestration`
+`Ollama` · `Local LLMs` · `RAG` · `Embeddings` · `ChromaDB` · `n8n` · `Whisper` · `Model Orchestration`
 
 ### Application Security
 
@@ -92,9 +95,7 @@ My training at Zone01 Oujda, part of the 42 network, strengthened my approach to
 
 ---
 
-## `03` — Featured Projects
-
-> A selection of the systems and products I've been building. Explore my GitHub for source code and the latest project status.
+## `03` / ACTIVE BUILDS
 
 <table>
 <tr>
@@ -102,16 +103,16 @@ My training at Zone01 Oujda, part of the 42 network, strengthened my approach to
 
 ### CoachMind AI
 
-**Football intelligence & analytics**
+**Football intelligence platform**
 
-A platform concept combining football data, tactical insights, and AI-assisted scouting.
+An AI-assisted football analytics concept focused on tactical insights and scouting workflows.
 
-- Tactical analysis workflows
-- AI-powered scouting assistance
-- Structured data and analytics
-- Go backend and PostgreSQL
+- Tactical analytics workflows
+- RAG-powered scouting assistant
+- Structured football data
+- Backend and data architecture
 
-**Stack:** `Go` `React` `PostgreSQL` `AI`
+`Go` `React` `PostgreSQL` `AI/RAG`
 
 </td>
 <td width="50%" valign="top">
@@ -120,14 +121,14 @@ A platform concept combining football data, tactical insights, and AI-assisted s
 
 **Local-first AI desktop assistant**
 
-An AI assistant concept designed around local inference, voice interaction, and modular model orchestration.
+A desktop assistant concept exploring local inference, voice interaction, memory, and model orchestration.
 
 - Local LLM integration
-- Voice input and output
+- Voice interface
 - Persistent conversational memory
-- Model-routing architecture
+- Multi-model routing
 
-**Stack:** `Python` `Ollama` `CUDA` `Electron`
+`Python` `Ollama` `CUDA` `Electron`
 
 </td>
 </tr>
@@ -136,32 +137,32 @@ An AI assistant concept designed around local inference, voice interaction, and 
 
 ### 01Blog Security Audit
 
-**Application security research**
+**Web application security assessment**
 
-A security assessment focused on identifying, validating, and documenting web application vulnerabilities.
+Security research focused on identifying, validating, documenting, and remediating application vulnerabilities.
 
 - Stored XSS investigation
 - Reproducible test cases
-- Remediation recommendations
-- Security-focused code review
+- Remediation documentation
+- OWASP-informed testing
 
-**Stack:** `Spring Boot` `Angular` `OWASP`
+`Spring Boot` `Angular` `OWASP`
 
 </td>
 <td width="50%" valign="top">
 
 ### Still Here
 
-**Safety-monitoring application**
+**Safety-monitoring platform**
 
-A cross-platform safety-monitoring concept designed around connectivity awareness, alerts, and an AI companion.
+A cross-platform safety application concept focused on connectivity awareness, alerts, and an AI companion named Vera.
 
 - Connectivity-aware workflows
-- Real-time alert concepts
-- AI companion named Vera
+- Safety alert concepts
+- AI companion integration
 - Mobile-first experience
 
-**Stack:** `React Native` `Go` `PostgreSQL`
+`React Native` `Go` `PostgreSQL`
 
 </td>
 </tr>
@@ -172,30 +173,30 @@ A cross-platform safety-monitoring concept designed around connectivity awarenes
 
 **Services marketplace**
 
-A marketplace concept connecting customers with service providers through discovery and reputation features.
+A marketplace concept connecting customers and service providers through discovery and reputation features.
 
-- Service-provider matching
+- Provider discovery and matching
 - Ratings and reviews
-- Geolocation-based discovery
+- Geolocation-based search
 - Payment integration concept
 
-**Stack:** `Java` `Spring Boot` `React` `MySQL`
+`Java` `Spring Boot` `React` `MySQL`
 
 </td>
 <td width="50%" valign="top">
 
 ### Full-Stack Social Platform
 
-**Real-time social application**
+**Social and real-time application**
 
-A full-stack platform exploring social interactions, data modeling, and real-time application features.
+A full-stack project exploring social interactions, data modeling, and real-time features.
 
 - Messaging and notifications
 - Feed and interaction workflows
 - Media-upload support
-- Caching and data persistence
+- Caching and persistence
 
-**Stack:** `TypeScript` `Node.js` `MongoDB` `Redis`
+`TypeScript` `Node.js` `MongoDB` `Redis`
 
 </td>
 </tr>
@@ -211,21 +212,21 @@ A full-stack platform exploring social interactions, data modeling, and real-tim
 
 ---
 
-## `04` — How I Approach Engineering
+## `04` / ENGINEERING APPROACH
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### Software Architecture
+### Software Engineering
 
-- Clear separation of concerns
 - Modular, maintainable code
-- RESTful API design
+- Clear separation of concerns
+- API design and integration
 - Data modeling and persistence
-- Asynchronous processing
-- Testing and debugging
+- Testing, debugging, and code review
 - Version control and CI/CD
+- Architecture chosen to fit the problem
 
 </td>
 <td width="50%" valign="top">
@@ -234,7 +235,7 @@ A full-stack platform exploring social interactions, data modeling, and real-tim
 
 - Local model deployment
 - Retrieval-augmented generation
-- Embedding and vector search
+- Embeddings and vector search
 - Model integration and orchestration
 - Threat modeling
 - Input validation and access control
@@ -244,53 +245,43 @@ A full-stack platform exploring social interactions, data modeling, and real-tim
 </tr>
 </table>
 
-I choose architecture based on the problem rather than forcing every application into microservices. A well-structured monolith is often the better starting point; distributed complexity should solve a real problem, not decorate a diagram.
+I don't believe every application needs microservices. A well-structured monolith is often the better starting point; distributed complexity should solve a real problem, not decorate an architecture diagram.
 
-## `05` — GitHub Activity
+## `05` / GITHUB SIGNAL
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=M-MDI&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&rank_icon=github" alt="GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=M-MDI&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=6366F1&text_color=C9D1D9&rank_icon=github" alt="GitHub statistics" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-MDI&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=8" alt="Most-used programming languages" />
 
 <br/><br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=M-MDI&bg_color=0D1117&color=00D9FF&line=6366F1&point=FFFFFF&area=true&hide_border=true" alt="GitHub contribution activity graph" />
+<img src="https://streak-stats.demolab.com/?user=M-MDI&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=6366F1&currStreakLabel=00D9FF" alt="GitHub contribution streak" />
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=M-MDI&theme=algolia&no-frame=true&no-bg=true&column=6&margin-w=10" alt="GitHub profile trophies" />
+<img src="https://raw.githubusercontent.com/M-MDI/M-MDI/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated GitHub contribution snake" />
 
 </div>
 
 ---
 
-## `06` — Beyond the Code
+## `06` / MILESTONES
 
-- **Hackathons:** First place at Afric'Artech for Torat, an AI project supporting Moroccan artisans.
-- **Continuous learning:** Algorithms, systems programming, backend architecture, cloud infrastructure, and application security.
-- **Local-first AI:** Exploring ways to run intelligent systems on personal hardware while retaining control over data and inference.
-- **Security mindset:** Treating security as an engineering discipline, from threat modeling through testing and remediation.
+- **Afric'Artech Hackathon:** First place for Torat, an AI project supporting Moroccan artisans.
+- **Zone01 Oujda:** Peer-driven, project-based training in software development.
+- **Application security:** Investigated and documented a stored XSS vulnerability and its remediation.
+- **Local-first AI:** Exploring AI workflows that run on personal hardware and reduce cloud dependency.
 
-## `07` — Languages & Opportunities
+## `07` / CURRENT DIRECTION
 
-| Language | Level |
-|---|---|
-| Arabic | Native |
-| English | Strong working language |
-| French | Actively improving |
+**Interested in:** Full-Stack Development · Backend Engineering (Go/Java) · AI Systems · Application Security · Software Testing
 
-I'm interested in opportunities where I can contribute to real products, grow alongside strong engineers, and take ownership of technical challenges.
-
-**Areas of interest:** Full-Stack Development · Backend Engineering (Go/Java) · AI Systems · Application Security · Software Testing
-
-**Open to:** Remote opportunities, internships, and relocation opportunities where eligibility and work authorization align.
-
----
+**Open to:** Relevant remote roles, internships, and relocation opportunities where eligibility and work authorization align.
 
 <div align="center">
 
-## Let's Build Something Worth Shipping
+## LET'S BUILD SOMETHING WORTH SHIPPING
 
 Have a product idea, an interesting engineering problem, or an opportunity to collaborate?
 
@@ -303,10 +294,47 @@ Have a product idea, an interesting engineering problem, or an opportunity to co
 
 <br/><br/>
 
-*“Great software is built twice: first in the mind, then in code.”*
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Think+clearly.;Build+carefully.;Ship+something+meaningful." alt="Think, build, ship" />
 
-<br/>
+<br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00D9FF,50:302B63,100:0B1020" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:00D9FF,50:302B63,100:0B1020" width="100%" alt="" />
 
 </div>
+'''
+
+workflow = r'''name: Generate Contribution Snake
+
+on:
+  schedule:
+    - cron: "17 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Generate contribution snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: M-MDI
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Publish SVGs to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+'''
