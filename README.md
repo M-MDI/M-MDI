@@ -1,3 +1,4 @@
+<!-- markdownlint-disable MD033 MD041 MD022 MD032 MD036 MD060 -->
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/M-MDI/M-MDI/main/assets/hero.svg" width="100%" alt="Mehdi Moulabbi, full-stack engineer, AI systems, application security" />
@@ -27,7 +28,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0B1020,50:00D9FF,100:0B1020" width="100%" alt="" />
 
-## `01` / ABOUT
+## <img src="https://raw.githubusercontent.com/M-MDI/M-MDI/main/assets/section-01-about.svg" width="100%" alt="01 / About" />
+
 
 I'm a self-taught developer who learns by building, debugging, testing assumptions, and understanding how systems work beneath the surface. My work sits at the intersection of **software engineering, practical AI, and application security**: shaping APIs, building full-stack applications, integrating AI pipelines, and making systems more reliable.
 
@@ -37,7 +39,8 @@ Trained at **Zone01 Oujda** (42 network). Based in Morocco. Open to remote roles
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0B1020,50:6366F1,100:0B1020" width="100%" alt="" />
 
-## `02` / TECH MATRIX
+## <img src="https://raw.githubusercontent.com/M-MDI/M-MDI/main/assets/section-02-tech-matrix.svg" width="100%" alt="02 / Tech Matrix" />
+
 
 <div align="center">
 <table>
@@ -88,7 +91,8 @@ Trained at **Zone01 Oujda** (42 network). Based in Morocco. Open to remote roles
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0B1020,50:00D9FF,100:0B1020" width="100%" alt="" />
 
-## `03` / ACTIVE BUILDS
+## <img src="https://raw.githubusercontent.com/M-MDI/M-MDI/main/assets/section-03-active-builds.svg" width="100%" alt="03 / Active Builds" />
+
 
 <table>
 <tr>
@@ -163,7 +167,8 @@ Messaging, notifications, feeds, and media uploads backed by caching and persist
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0B1020,50:6366F1,100:0B1020" width="100%" alt="" />
 
-## `04` / ENGINEERING APPROACH
+## <img src="https://raw.githubusercontent.com/M-MDI/M-MDI/main/assets/section-04-engineering-approach.svg" width="100%" alt="04 / Engineering Approach" />
+
 
 <table>
 <tr>
@@ -194,7 +199,8 @@ Messaging, notifications, feeds, and media uploads backed by caching and persist
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0B1020,50:00D9FF,100:0B1020" width="100%" alt="" />
 
-## `05` / GITHUB SIGNAL
+## <img src="https://raw.githubusercontent.com/M-MDI/M-MDI/main/assets/section-05-github-signal.svg" width="100%" alt="05 / Github Signal" />
+
 
 <div align="center">
 
@@ -213,7 +219,8 @@ Messaging, notifications, feeds, and media uploads backed by caching and persist
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0B1020,50:6366F1,100:0B1020" width="100%" alt="" />
 
-## `06` / MILESTONES
+## <img src="https://raw.githubusercontent.com/M-MDI/M-MDI/main/assets/section-06-milestones.svg" width="100%" alt="06 / Milestones" />
+
 
 | | |
 |---|---|
