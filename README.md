@@ -16,7 +16,7 @@
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/M-MDI/M-MDI/main/assets/stats.svg" width="100%" alt="3+ years of hands-on development, 1st place at Afric'Artech Hackathon, 6 active builds from AI to security" />
+<img src="https://raw.githubusercontent.com/M-MDI/M-MDI/main/assets/stats.svg" width="720" alt="3+ years of hands-on development, 1st place at Afric'Artech Hackathon, 6 active builds from AI to security" />
 
 </div>
 
