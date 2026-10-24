@@ -16,13 +16,7 @@
 
 <br/><br/>
 
-<table>
-<tr>
-<td align="center" width="33%"><h2>3+</h2><sub>YEARS OF HANDS-ON DEVELOPMENT</sub></td>
-<td align="center" width="33%"><h2>1st</h2><sub>PLACE · AFRIC'ARTECH HACKATHON</sub></td>
-<td align="center" width="33%"><h2>6</h2><sub>ACTIVE BUILDS · AI TO SECURITY</sub></td>
-</tr>
-</table>
+<img src="https://raw.githubusercontent.com/M-MDI/M-MDI/main/assets/stats.svg" width="100%" alt="3+ years of hands-on development, 1st place at Afric'Artech Hackathon, 6 active builds from AI to security" />
 
 </div>
 
@@ -210,10 +204,6 @@ Messaging, notifications, feeds, and media uploads backed by caching and persist
 <br/><br/>
 
 <img src="https://streak-stats.demolab.com/?user=M-MDI&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=6366F1&currStreakLabel=00D9FF" alt="GitHub streak" />
-
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/M-MDI/M-MDI/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution snake" />
 
 </div>
 
